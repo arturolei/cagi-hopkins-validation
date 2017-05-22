@@ -39,7 +39,7 @@ the first parameter of the open argument should be file-path with appropriate fi
       ```
 
 - The program validates a .csv file. 
-    - See the subsequent section "Justification for use of .csv Instead of .txt"
+    - See the subsequent section **"Justification for use of .csv Instead of .txt"**
     
 - ***IMPORTANT*** For the variant data field for each disorder, each variant must be entered seperated ***BY A SPACE*** not 
 a comma. This change was necessitated by the way the program in Python was written. 

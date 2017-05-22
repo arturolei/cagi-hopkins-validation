@@ -8,6 +8,8 @@ I have included several 'print' statements for future debugging purposes;
 I have commented them out, but they serve as a means of error-checking. 
 
 Of course, let it be said that it's really "converter", not a "generator"
+
+NB: The file generates a .csv file with the name, "5-Hopkins_clinical_panel_submission_template2.csv".
 '''
 
 import csv
